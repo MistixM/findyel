@@ -1,4 +1,4 @@
 # Spreadsheet data
-SHEET_ID = '1iu7WnJPg_O1akuHSZ8-MmGZwfbyeHvq40PvVezJF3hc'
+SHEET_ID = 'SHEET_ID_HERE'
 
-PAGE_SPEED_KEY = 'AIzaSyDKu6ZOxsKlgSCknUJBfuEsWtLRrAXrPqg'
+PAGE_SPEED_KEY = 'PAGE_SPEED_KEY'
