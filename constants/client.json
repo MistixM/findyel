@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "findyel-prod",
+  "private_key_id": "649b1180d6d2cff15b4b11748303a0b4dd96e04d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPK7jH0g8lrK6g\n8xYOtdraFtMCpISnRKMFgwsKyV1itUVT8bU8GX5dAjzJXg6zeX+jiB6jAtRjE/Xh\nYn6+KO3omhAEfCxI9N68S1pRNSPCxpsRz2hjr5WYyjp9cq3Do65EsVkLpg1fy3HO\n6ZGlzXbwTtwRNPQtOyCac7RcT9FRcckHlOWWfQCCqcWu8n5wtMxw5IM//5vZKaKF\nzLwUbiTnaLweyBe8pksS9Nht3D3LjsqiNcP6pVQWBzRMVncfM3pA1ZqoOZsmeBtS\nDTAFZ7JkXqDxONyAbZWbJhf+T/IKUlyVvEajXf4bW0RgHJwPCnT9y5Kh0xSVMavT\nH0De4Uf9AgMBAAECgf8KD3hj3qbSBNC79IZpU1/TK8iTdV4qTOr607mM0l1q84V7\nzhhWQVsKTCL5AXs1R5+2y3bf86YihqzkPzt/rxRqMW4s+CCLgbXDqUIzuv37wxH+\n6IIXyYwi8MZmXMhk4HyEiADzuJbKxHlT0vg54KNUiCK++PwRHvaqt/9V2VviTOUe\n8W7hjHhFnX0F8setJGAYbae6anhiMOPGDWvs6O0D/fDPUUK6VthTAlMAm2x0jWGU\nu8G1ISsV2mFsK+hzZPNf63qcCe0rfAEDZYS0XznD/yKoehG1t+Y3k4GKyXeriWCN\ng4R/XWk4uMguIxKrQ80lFzWeT4pYpv6ADf9sn0ECgYEA9OOX1RpbZOeUbcBUfPzM\nN60oXwwiXlbQMUnTgxSVYaN6QJrzs48BVNEpAGmqSUcFMZl5c6tfLVKBarZI0roX\nx18rX4enU15uE5Mn+sZoLTW1jtVLS+jRxFGQCZa8GxvlH59N4QbmZ8CdMa1nQ+mA\nts2+iyQ0Mtn0+evyWLH1xsECgYEA2JIHL0Ah3vK47w5XLTe8dapK3v2D+gifobMa\nLNG1cuYmm61Q1XBiaFwzfexWHGrTKqX3WXtE9tAv6Gpkb8zdJK76d10MKFc2p9o3\nZMWzvGHGuM80O8hxyjFJY3w4YWj13B2mg1TxR9IoPPbVkm4ky78lFteH9H6jqozH\n2/jX7D0CgYB8oOtfl8dVhgnjBRO6fElOOICoRpujGVlhDCpptmsDwtfv0ywdgLTz\nvnK4dA4mts8s2+eUd227uhaFAXn0TKLXY1bGilocsp0gty6MkLbp80CQDXsBid5f\npAbC6oSW405rFn7i+8j8mmklpBM+27IW1oSXeXhbPNNQ8cRnYUIswQKBgQDTx2Dd\nNNKqaSKtKpHXNvTE/4T9sF1ZqQspHbJP97Z/KE7C12X/gknJEbiMwAqo+VGMGAXc\na+3RiV3/4eJbbbMnRzDIfqX/4OEinQKkOax8YATq/jxu5aFYfn/smDGuF+yslhYZ\nwXu8pucQTrQk4C59S2rifluFnD1B7y8Vja7gZQKBgQCwcoOhZtZMsLd6mFhlsWhP\nI96row1EpQluHvBnq0RQ40/CsgeoEvG+vbYROWyNBquOStI+eVWCXJqqo0JYZWA3\n1MfEtrQKL/zlMZ+6vKDf7tXNYbBmwyu19rHKFRcaa7C5YZ+7lb2BrO0bzQReqKLB\nD6/RlGH2mZqXfVXl4jOdfw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "findyel-service-account@findyel-prod.iam.gserviceaccount.com",
+  "client_id": "107486529085900600918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/findyel-service-account%40findyel-prod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
